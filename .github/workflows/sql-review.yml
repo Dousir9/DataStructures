@@ -14,4 +14,4 @@ jobs:
           override-file-path: ""
           template-id: "bb.sql-review.dev"
           database-type: "TIDB"
-          file-pattern: ".sql"
+          file-pattern: "^.*\.sql$"
