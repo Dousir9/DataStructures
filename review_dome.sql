@@ -1,1 +1,1 @@
-create table a(a int, b int);
+create table a(a int);
